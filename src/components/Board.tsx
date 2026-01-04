@@ -23,7 +23,7 @@ export default function Board() {
       <div className="relative w-full max-w-4xl max-h-full" style={{ aspectRatio: '6/5' }}>
         {/* Candy Cane Striped Border */}
         <div 
-          className="absolute -inset-4 rounded-[2.5rem]"
+          className="absolute -inset-2 rounded-[2.5rem]"
           style={{
             background: 'repeating-linear-gradient(45deg, #ff6b9d 0px, #ff6b9d 12px, #ffffff 12px, #ffffff 24px)',
           }}
